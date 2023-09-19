@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="auto" alt="artificial intelligence" src="https://media2.giphy.com/media/YnexM9LwlwGu4Z1QnS/200w.gif?cid=6c09b952ptmpk0a34ri0dsi598lh20n1g259twzfk1g5yi82&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<img align="right" alt="coding" width="400" src="https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif">
 <img align="center" alt="coding" width="100%" height="auto" src="https://github.com/AbdullahKhanKakar/AbdullahKhanKakar/blob/main/Capture.PNG">
 
 <h1 align="center">Hi 👋, I'm Abdullah Khan Kakar</h1>
