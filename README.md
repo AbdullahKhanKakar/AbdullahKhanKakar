@@ -1,4 +1,3 @@
-<img alt="coding" width="100%" src="https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif">
 <h1 align="center">Hi 👋, I'm Abdullah Khan Kakar</h1>
 <h3 align="center">Data Scientist</h3>
 <img align="center" alt="coding" width="100%" height="auto" src="https://github.com/AbdullahKhanKakar/AbdullahKhanKakar/blob/main/Capture.PNG">
