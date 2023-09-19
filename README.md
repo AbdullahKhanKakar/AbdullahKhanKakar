@@ -1,5 +1,9 @@
+<img align="center" alt="coding" width="100%" height="auto" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDg1b2o4ZmZyaGN4dXFyY2Q0YTUzenpoaG94amZoejRqOHFkdGdnNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
+
 <h1 align="center">Hi 👋, I'm Abdullah Khan Kakar</h1>
 <h3 align="center">Data Scientist</h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/52/b7/36/52b736f2c6e739118e5b9a32a21434ea.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahkhankakar&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahkhankakar" /> </p>
 
