@@ -1,7 +1,7 @@
-<img align="right" alt="coding" width="400" src="https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif">
+<img align="right" alt="coding" width="50%" src="https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif">
 <h1 align="center">Hi 👋, I'm Abdullah Khan Kakar</h1>
 <h3 align="center">Data Scientist</h3>
-<img align="center" alt="coding" width="100%" height="auto" src="https://github.com/AbdullahKhanKakar/AbdullahKhanKakar/blob/main/Capture.PNG">
+<img align="center" alt="coding" width="100%" style="margin-top:100px;" height="auto" src="https://github.com/AbdullahKhanKakar/AbdullahKhanKakar/blob/main/Capture.PNG">
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/52/b7/36/52b736f2c6e739118e5b9a32a21434ea.gif">
 
