@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/52/b7/36/52b736f2c6e739118e5b9a32a21434ea.gif">
+<img alt="coding" width="100%" src="https://github.com/AbdullahKhanKakar/AbdullahKhanKakar/blob/main/Capture.PNG">
 
 <h1 align="center">Hi 👋, I'm Abdullah Khan Kakar</h1>
 <h3 align="center">Data Scientist</h3>
