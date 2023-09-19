@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif">
+<img alt="coding" width="100%" height="auto" src="https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif">
 <img align="center" alt="coding" width="100%" height="auto" src="https://github.com/AbdullahKhanKakar/AbdullahKhanKakar/blob/main/Capture.PNG">
 
 <h1 align="center">Hi 👋, I'm Abdullah Khan Kakar</h1>
