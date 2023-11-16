@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://github.com/AbdullahKhanKakar/AbdullahKhanKakar/blob/main/Banner%20Image.png" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/abdullah-khan-kakar-51555129a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
