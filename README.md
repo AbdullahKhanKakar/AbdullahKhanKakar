@@ -4,6 +4,14 @@
 <a href="https://www.linkedin.com/in/abdullah-khan-kakar-51555129a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
+<p align="center">
+<a href="https://www.kaggle.com/abdullahkhanuet22"><img src="https://github.com/AbdullahProjects/AbdullahProjects/blob/main/kaggle.png" alt="Kaggle Badge" width="103" height="auto"></a>
+</p>
+
+<p align="center">
+<a href="https://medium.com/@abdullahkhan4465917"><img src="https://github.com/AbdullahProjects/AbdullahProjects/blob/main/medium.png" alt="Medium Badge" width="112" height="auto"></a>
+</p>
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">✋hey there</h1>
