@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/AbdullahKhanKakar/AbdullahKhanKakar/blob/main/Banner%20Image.png)
+![Github Banner](https://github.com/AbdullahKhanKakar/AbdullahKhanKakar/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner%20(1).png)
 
 <h1 align="center">👇click to find more about me</h1>
 
