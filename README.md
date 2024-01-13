@@ -1,10 +1,10 @@
 ![Github Banner](https://github.com/AbdullahKhanKakar/AbdullahKhanKakar/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner%20(1).png)
 
-<h1 align="center">👇click to find more about me</h1>
+<h1 align="center">👇click to find me on</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abdullah-khan-kakar-555452278/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>---
-<a href="https://www.kaggle.com/abdullahkhanuet22"><img src="https://github.com/AbdullahProjects/AbdullahProjects/blob/main/kaggle.png" alt="Kaggle Badge" width="80" height="auto"></a>---
+<a href="https://www.linkedin.com/in/abdullah-khan-kakar-555452278/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> --- 
+<a href="https://www.kaggle.com/abdullahkhanuet22"><img src="https://github.com/AbdullahProjects/AbdullahProjects/blob/main/kaggle.png" alt="Kaggle Badge" width="75" height="auto"></a> --- 
 <a href="https://medium.com/@abdullahkhan4465917"><img src="https://github.com/AbdullahProjects/AbdullahProjects/blob/main/medium.png" alt="Medium Badge" width="112" height="auto"></a>
 </p>
 
