@@ -1,12 +1,18 @@
 ![Github Banner](https://github.com/AbdullahKhanKakar/AbdullahKhanKakar/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner%20(1).png)
 
-<h1 align="center">👇click to find me on</h1>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-orange?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullahkhankakar/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-orange?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/abdullahkhanuet22)
+[![Medium](https://img.shields.io/badge/Medium-Profile-orange?style=for-the-badge&logo=medium)](https://medium.com/@abdullahkhan4465917)
 
-<p align="center">
+
+
+
+<!-- <h1 align="center">👇click to find me on</h1> -->
+<!-- <p align="center">
 <a href="https://www.linkedin.com/in/abdullah-khan-kakar-555452278/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> --- 
 <a href="https://www.kaggle.com/abdullahkhanuet22"><img src="https://github.com/AbdullahProjects/AbdullahProjects/blob/main/kaggle.png" alt="Kaggle Badge" width="75" height="auto"></a> --- 
 <a href="https://medium.com/@abdullahkhan4465917"><img src="https://github.com/AbdullahProjects/AbdullahProjects/blob/main/medium.png" alt="Medium Badge" width="112" height="auto"></a>
-</p>
+</p> -->
 
 
 <h1 align="center">✋hey there</h1>
