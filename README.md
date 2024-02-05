@@ -27,7 +27,7 @@
 
 ### &nbsp;About Me :
 
-I am <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan. I am currently exploring Artificial Intelligence, Machine Learning, Deep Learning, Data Science and Data Analytics. All my projects are available in another github profile: Link--> https://github.com/AbdullahProjects
+My name is Abdullah Khan Kakar. I am <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lahore, Pakistan. Studying Bachelor's of Business and Information Technology(BBIT) from University of Engineering & Technology, Lahore. I am currently exploring Artificial Intelligence, Machine Learning, Deep Learning, Data Science and Data Analytics. All my projects are available in another github profile: Link--> https://github.com/AbdullahProjects
 
 - ⚡ In my free time I solve problems on Leetcode, read tech articles, participate in Kaggle competitions and writing blogs on Medium.com.
 - 📫 How to reach me: Email----abdullahkhan4465917@gmail.com
