@@ -1,9 +1,9 @@
 ![Github Banner](https://github.com/AbdullahKhanKakar/AbdullahKhanKakar/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner%20(1).png)
-
+<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-orange?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullahkhankakar/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-orange?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/abdullahkhanuet22)
 [![Medium](https://img.shields.io/badge/Medium-Profile-orange?style=for-the-badge&logo=medium)](https://medium.com/@abdullahkhan4465917)
-
+</p>
 
 
 
