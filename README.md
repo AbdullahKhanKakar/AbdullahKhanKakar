@@ -12,6 +12,7 @@
   </a>
 </div>
 
+<p><h3 align="center">👩‍🏫 Download: <a href="https://drive.google.com/file/d/1wlOZNdeXHIE2QbzjkuDHnGKJordYzOwx/view?usp=sharing">Resume</a></h3></p>
 
 <!-- <h1 align="center">👇click to find me on</h1> -->
 <!-- <p align="center">
